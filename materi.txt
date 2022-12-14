@@ -1,3 +1,5 @@
 mata kuliah pti
 1.pengenalan mata kuliah
 2. komponen komputer
+3. sistem bilangan
+4. komfersi bilangan
