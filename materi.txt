@@ -3,3 +3,6 @@ mata kuliah pti
 2. komponen komputer
 3. sistem bilangan
 4. komfersi bilangan
+5. setting halaman
+6. daftar isi
+7. mail marge
